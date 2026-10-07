@@ -1,0 +1,20 @@
+Description:	Reference dgemv.
+
+Working on problem size N=1024 
+ Problem size N=1024  elapsed time (s) = 0.00025
+ Verified: result matches CBLAS reference for N=1024 
+Working on problem size N=1024 
+ Problem size N=1024  elapsed time (s) = 0.00016
+ Verified: result matches CBLAS reference for N=1024 
+Working on problem size N=2048 
+ Problem size N=2048  elapsed time (s) = 0.00053
+ Verified: result matches CBLAS reference for N=2048 
+Working on problem size N=4096 
+ Problem size N=4096  elapsed time (s) = 0.00379
+ Verified: result matches CBLAS reference for N=4096 
+Working on problem size N=8192 
+ Problem size N=8192  elapsed time (s) = 0.01870
+ Verified: result matches CBLAS reference for N=8192 
+Working on problem size N=16384 
+ Problem size N=16384  elapsed time (s) = 0.07339
+ Verified: result matches CBLAS reference for N=16384 
